@@ -1,0 +1,7 @@
+Starting from complete basics: Python from CodeAcademy: https://www.codecademy.com/learn/python
+
+Introduction to using Python for Data Sciences: https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=fb_paid&utm_medium=fb_desktop&utm_campaign=promo_million_visitors
+
+Practice Tutorial on Python for Machine Learning: https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning 
+
+Numpy and Pandas Libraries: https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/?utm_campaign=&utm_medium=email&utm_source=miscellaneous
