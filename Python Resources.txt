@@ -5,3 +5,5 @@ Introduction to using Python for Data Sciences: https://www.datacamp.com/courses
 Practice Tutorial on Python for Machine Learning: https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning 
 
 Numpy and Pandas Libraries: https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/?utm_campaign=&utm_medium=email&utm_source=miscellaneous
+
+Deep Learning with Keras Library - http://machinelearningmastery.com/introduction-python-deep-learning-library-keras/
